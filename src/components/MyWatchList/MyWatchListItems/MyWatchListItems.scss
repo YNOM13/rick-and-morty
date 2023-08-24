@@ -1,0 +1,13 @@
+.items-of-watch-list{
+  text-align: center;
+  min-height: 500px;
+  display: flex;
+  justify-content: start;
+  align-items: center;
+  flex-direction: column;
+  background: #f1f1f1;
+  border-radius: 4px;
+  padding: 30px;
+  overflow: auto;
+  max-height: 500px;
+}

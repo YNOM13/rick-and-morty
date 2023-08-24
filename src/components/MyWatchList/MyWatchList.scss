@@ -1,0 +1,17 @@
+.button-episode{
+  background: #6666fc;
+  color: white;
+  padding: 10px 20px;
+  box-shadow: 1px 1px 3px #ababab;
+  border: none;
+  outline: none;
+  border-radius: 10px;
+  cursor: pointer;
+  transition: 0.3s;
+  &:hover{
+    background: #5454ff;
+  }
+  &:active{
+    background: #3434f5;
+  }
+}

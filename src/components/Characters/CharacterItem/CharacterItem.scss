@@ -1,0 +1,29 @@
+.characters-card{
+  margin: 10px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  padding: 5px;
+  font-family: "Roboto", sans-serif;
+  font-weight: 400;
+}
+.characters-card__img{
+  width: 80%;
+  border-radius: 10px;
+  transition: 0.3s;
+}
+.characters__card-content{
+  padding: 0;
+  margin: 0;
+}
+.characters__buttons{
+  margin-top: auto;
+  display: flex;
+  flex-direction: column;
+}
+.characters__info{
+
+}
+@media (max-width:800px){
+
+}
